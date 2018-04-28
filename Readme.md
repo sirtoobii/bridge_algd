@@ -19,13 +19,10 @@ __Eingabebeispiel 1__
 __Erwartete Ausgabe__
 ```
 17 
+1 2 
 1 
+5 10 
 2 
-1 
-5 
-10 
-2 
-1 
-2 
+1 2 
 ```
 Weitere Testdaten finden Sie im Ordner `Testdaten`
